@@ -8,6 +8,7 @@ function helloAgain() {
 function thisIsSecondFunction() {
     alert ("hi pepe 22222222");
     alert ("change 1");
+    alert ("change 2");
 }
 
 
